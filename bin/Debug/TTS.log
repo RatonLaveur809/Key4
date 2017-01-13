@@ -1,0 +1,28 @@
+[TTS, 0.000] langcode = 1024
+[TTS, 0.000] Try to load module.
+[TTS, 0.000] Try to load DLL D:\Program Files\SSRLab\Yakut\ASP.dll
+[TTS, 0.031] Load OK
+[TTS, 0.031] Try to load module.
+[TTS, 0.031] Try to load DLL D:\Program Files\SSRLab\Yakut\Langs\Yakut\LingModYAK.dll
+[LMYAK, 0.063] Init
+[TTS, 0.063] Load OK
+[LMYAK, 0.125] Init - OK
+[ASP, 0.125] Init
+	[ASP, 0.531] INI Loaded
+	[ASP, 0.531] Init Finished
+[TTS, 1.109] Set voice finished
+[SAPI, 1.109] Set voice (voice=BorisYak)
+[TTS, 3.141] langcode = 1024
+[TTS, 3.141] Try to load module.
+[TTS, 3.141] Try to load DLL D:\Program Files\SSRLab\Yakut\ASP.dll
+[TTS, 3.141] Load OK
+[TTS, 3.141] Try to load module.
+[TTS, 3.141] Try to load DLL D:\Program Files\SSRLab\Yakut\Langs\Yakut\LingModYAK.dll
+[LMYAK, 3.141] Init
+[TTS, 3.141] Load OK
+[LMYAK, 3.203] Init - OK
+[ASP, 3.203] Init
+	[ASP, 3.609] INI Loaded
+	[ASP, 3.609] Init Finished
+[TTS, 4.156] Set voice finished
+[SAPI, 4.156] Set voice (voice=BorisYak)

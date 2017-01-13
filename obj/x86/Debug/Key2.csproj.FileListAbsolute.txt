@@ -1,0 +1,40 @@
+G:\Работа\Key2\Key2\bin\Debug\Key2.exe
+G:\Работа\Key2\Key2\bin\Debug\Key2.pdb
+G:\Работа\Key2\Key2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Работа\Key2\Key2\obj\x86\Debug\Key2.Form1.resources
+G:\Работа\Key2\Key2\obj\x86\Debug\Key2.Properties.Resources.resources
+G:\Работа\Key2\Key2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Работа\Key2\Key2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Работа\Key2\Key2\obj\x86\Debug\Key2.exe
+G:\Работа\Key2\Key2\obj\x86\Debug\Key2.pdb
+G:\Работа\Key2\Key2\bin\Debug\Microsoft.CSharp.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Data.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Deployment.dll
+G:\Работа\Key2\Key2\bin\Debug\System.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Drawing.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Speech.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Windows.Forms.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Xml.dll
+G:\Работа\Key2\Key2\bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\Key2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\Key2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\Key2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\Key2.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\Microsoft.CSharp.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Data.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Deployment.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Drawing.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Speech.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Windows.Forms.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Xml.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\Key2.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\Key2.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Программы Левкович\Key2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Raccoon's programs\Key3\obj\x86\Debug\Key2.exe
+F:\Raccoon's programs\Key3\obj\x86\Debug\Key2.pdb
